@@ -1,2 +1,2 @@
 # ML-Projects
-My machine learning projects
+My machine learning class projects
