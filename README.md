@@ -1,2 +1,2 @@
 # Machine Learning Projects
-My machine learning class projects
+My machine learning coursework
